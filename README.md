@@ -1,5 +1,5 @@
 
-Multiclass Text Classification using Machine Learning and Deep Learning on a Hierarchical News Dataset.
+# Multiclass Text Classification using Machine Learning and Deep Learning on a Hierarchical News Dataset.
 
 ##  About the Project
 
