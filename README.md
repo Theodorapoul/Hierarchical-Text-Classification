@@ -1,4 +1,3 @@
-# ML_project_final
 
 Multiclass Text Classification using Machine Learning and Deep Learning on a Hierarchical News Dataset.
 
